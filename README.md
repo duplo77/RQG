@@ -1,2 +1,2 @@
 # rqg
-Team Tree House Project 1: Random Quote Generator
+teamtreehouse project 1: Random Quote Generator - full
